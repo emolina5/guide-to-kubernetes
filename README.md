@@ -1,3 +1,5 @@
+This repository provides a curated list of useful resources to learn concepts about Kubernetes and prepare for the CKA exam.
+
 ## **Exam Objectives**
 
 The CNCF curriculum for the CKA can be found [here](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.34.pdf).
