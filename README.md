@@ -53,6 +53,7 @@ All essential Kubernetes concepts revolve around the Pod. Understanding how Pods
 - [What Is a Kubernetes Deployment?](https://www.sysdig.com/learn-cloud-native/kubernetes-replicasets-overview)
   - [Understand Deployments And How To Perform Rolling Update And Rollbacks](https://github.com/WahlNetwork/certified-kubernetes-administrator-cka-exam/blob/main/objectives/objective2.md#21-understand-deployments-and-how-to-perform-rolling-update-and-rollbacks)
 - [Kubernetes StatefulSet](https://website.vcluster.com/blog/kubernetes-statefulset-examples-and-best-practices)
+  - [Kubernetes Deployment vs. StatefulSets](https://www.baeldung.com/ops/kubernetes-deployment-vs-statefulsets) 
 - [Kubernetes DaemonSet](https://devopscube.com/kubernetes-daemonset/)
 - [Kubernetes Jobs and CronJobs](https://devopscube.com/create-kubernetes-jobs-cron-jobs/)
 
