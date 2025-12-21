@@ -23,8 +23,8 @@ The exam evaluates the following areas with an approximate weight per section (t
 
 I personally recommend using virtualization tools such as [VirtualBox](https://www.virtualbox.org/) together with infrastructure-as-code tools like [Vagrant](https://developer.hashicorp.com/vagrant) to set up a cluster in an automated way. In the Open Source community there are projects that provide this functionality. My personal recommendations are:
 
-- [vagrant-kubeadm-kubernetes - Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm](https://github.com/techiescamp/vagrant-kubeadm-kubernetes)
-- [kubespray - Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
+- [Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm](https://github.com/techiescamp/vagrant-kubeadm-kubernetes)
+- [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 
 ---
 
