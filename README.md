@@ -21,10 +21,10 @@ The exam evaluates the following areas with an approximate weight per section (t
 > **Info**  
 > Before getting started with Kubernetes, it is necessary to have a local environment to test and deploy configurations.
 
-I personally recommend using virtualization tools such as [VirtualBox](https://www.virtualbox.org/) together with infrastructure-as-code tools like [Vagrant](https://developer.hashicorp.com/vagrant) to set up a cluster in an automated way. In the Open Source community there are projects that provide this functionality. My personal recommendation is:
+I personally recommend using virtualization tools such as [VirtualBox](https://www.virtualbox.org/) together with infrastructure-as-code tools like [Vagrant](https://developer.hashicorp.com/vagrant) to set up a cluster in an automated way. In the Open Source community there are projects that provide this functionality. My personal recommendations are:
 
-- [vagrant-kubeadm-kubernetes](https://github.com/techiescamp/vagrant-kubeadm-kubernetes) (compatible with Windows, Linux, and macOS Intel)
-- [vagrant-kubeadm-mac-silicon](https://github.com/techiescamp/vagrant-kubeadm-mac-silicon) (optimized for macOS systems with arm64 architecture)
+- [vagrant-kubeadm-kubernetes - Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm](https://github.com/techiescamp/vagrant-kubeadm-kubernetes)
+- [kubespray - Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 
 ---
 
