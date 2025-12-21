@@ -38,6 +38,8 @@ I personally recommend using virtualization tools such as [VirtualBox](https://w
   - [Kubernetes Cluster Architecture, Installation, and Configuration](https://medium.com/@h.stoychev87/kubernetes-cluster-architecture-installation-and-configuration-77b9306db158)
 - [Kubeconfig File Explained](https://devopscube.com/kubernetes-kubeconfig-file/)
 - [Understand Kubernetes Objects And Resources](https://devopscube.com/kubernetes-objects-resources/)
+- [Kubernetes Tutorials](https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF) by Anton Putra (Video)
+- [Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition)](https://youtu.be/MTHGoGUFpvE) by Alta3 Research (Video)
 
 ### Concepts about Pods and Pod-dependent objects
 
